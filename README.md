@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @theamit-969
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello, I'm Amit
 
-<!---
-theamit-969/theamit-969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 **Interests:** Developing web and Android apps with a full-stack approach
+- 📚 **Currently Learning:** JavaScript and React Native to build smooth, user-friendly mobile and web applications
+- 🤝 **Looking to Collaborate:** On projects that focus on great user experience and practical solutions
+
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/amitdev/)
+- [X](https://x.com/amitmishra465)
+
