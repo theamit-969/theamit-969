@@ -1,6 +1,7 @@
 ## _hello friend
 
 ### I'm Amit  
+
 Full-stack builder · Neovim tweaker · Arch + WM daily driver · Not afraid to `:q!`
 
 - I build full-stack apps with clean architecture and purpose-driven features.  
@@ -11,6 +12,6 @@ Full-stack builder · Neovim tweaker · Arch + WM daily driver · Not afraid to 
 
 > I like things that do their job and stay out of the way.
 
-[→ X (Twitter)](https://x.com/amitmishra465)
+
 
 
