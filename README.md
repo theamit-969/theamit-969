@@ -1,10 +1,16 @@
-## Hello, I'm Amit
+## _hello friend
 
-- 🌐 **Interests:** Developing web and Android apps with a full-stack approach
-- 📚 **Currently Learning:** JavaScript and React Native to build smooth, user-friendly mobile and web applications
-- 🤝 **Looking to Collaborate:** On projects that focus on great user experience and practical solutions
+### I'm Amit  
+Full-stack builder · Neovim tweaker · Arch + WM daily driver · Not afraid to `:q!`
 
-**Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/amitdev/)
-- [X](https://x.com/amitmishra465)
+- I build full-stack apps with clean architecture and purpose-driven features.  
+- My workflow runs entirely on Arch + Neovim + Hyprland — fast, minimal, and tuned by hand.  
+- I'm into mobile development — building things that people actually use just feels right.  
+- Cybersecurity fascinates me — understanding how systems behave beneath the surface is key.  
+- I choose tools with intention — nothing extra, nothing random.  
+
+> I like things that do their job and stay out of the way.
+
+[→ X (Twitter)](https://x.com/amitmishra465)
+
 
