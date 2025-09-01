@@ -2,11 +2,11 @@
 amit@github:~$ echo "Not afraid to :q!"
 ```
 # 👋 I'm Amit
-- I build things that solve real problems, mostly full-stack apps.
-- Mobile development really excites me — the idea of creating something millions could use.
-- Security keeps me curious — understanding how things break makes me build better.
-- I work on Arch + Neovim + Hyprland because they help me focus on code, not distractions.
-- Always learning, always building something new.
+- Build full-stack apps that solve real problems  
+- Love mobile dev — making tools people actually use  
+- Curious about security; breaking things makes me better at building  
+- Use Arch, Neovim, and Hyprland to stay focused  
+- Always learning, always shipping
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:theamit.969@gmail.com) 
